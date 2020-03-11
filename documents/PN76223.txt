@@ -1,0 +1,3 @@
+<PAPERNUM>PN76223</PAPERNUM>
+<TITLE>Review of the growth characteristics of cystic fibrosis and normal human diploid fibroblasts in vitro.</TITLE>
+<ABSTRACT>The growth kinetics of human diploid skin fibroblasts derived from cystic fibrosis (CF) homozygotes, CF heterozygotes and normal individuals was determined. The population doubling times increased with time in culture, and no difference was observed between the 3 genotypes tested. The cell cycle times remained constant through the 10th subculture, while the growth fraction, or fraction of cells in the cell cycle, decreased with culture time; however, changes in the growth fraction and population doubling time appear to be related to cellular senescence in vitro rather than to cystic fibrosis.</ABSTRACT>

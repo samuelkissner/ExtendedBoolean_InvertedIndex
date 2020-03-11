@@ -1,0 +1,3 @@
+<PAPERNUM>PN75188</PAPERNUM>
+<TITLE>Cystic fibrosis complicated by heart failure.</TITLE>
+<ABSTRACT>Survival studies were done on 36 children with cystic fibrosis and heart failure. Thirty percent did not survive the first four weeks, and the median survival for the group was between two and three months. By the end of the first year from the onset of failure, 74 percent had died and at 30 months, 87 percent had died.</ABSTRACT>

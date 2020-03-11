@@ -1,0 +1,3 @@
+<PAPERNUM>PN77127</PAPERNUM>
+<TITLE>Bioavailability of food iron-(59Fe), vitamin B12-(60Co) and protein bound selenomethionine-(75Se) in pancreatic exocrine insufficiency due to cystic fibrosis.</TITLE>
+<ABSTRACT>The absorption of biosynthetically 59Fe-labeled hemiglobin, pork and hog liver, 60 Co-vitamin B12 and 75Se-selenomethionin labeled pork was measured in children with cystic fibrosis by whole body counting of the absorbed radionuclides within the 4-pi geometry of a large volume radioactivity detector with liquid organic scintillator.</ABSTRACT>

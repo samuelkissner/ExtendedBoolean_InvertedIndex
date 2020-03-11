@@ -1,0 +1,3 @@
+<PAPERNUM>PN74115</PAPERNUM>
+<TITLE>Invertebrate model for study of macromolecular regulators of mucus secretion.</TITLE>
+<ABSTRACT>Large molecules which consistently stimulate hypersecretion in individual mucus-secretory sells in an animal system (the marine invertebrate Sipunculus) have been found in human serum and urine. This activity is heat-evoked in serum, heat-labile in urine. Heat-stable and heat-evoked factors were also found respectively in saliva and tears. The serum and urine factors withstood freeze-thawing. Activity of both factors was destroyed by pronase, and activity of the urine factor was destroyed by trypsin. After incubation with alphaamylase the factor in urine induced production of a very aberrant type of secretion.</ABSTRACT>

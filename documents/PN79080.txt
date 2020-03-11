@@ -1,0 +1,3 @@
+<PAPERNUM>PN79080</PAPERNUM>
+<TITLE>Allergy in cystic fibrosis.</TITLE>
+<ABSTRACT>Forty-four patients with cystic fibrosis, sixty-seven parents, and thirty-nine controls were compared with regard to their immediate cutaneous hypersensitivity, total and specific serum IgE and serum IgG4 concentrations. The patients had increased prick test reactions and specific IgE to Aspergillus fumigatus. The development of reactions to A. fumigatus correlated with the severity of the disease. There were no other significant differences when serum total IgE, specific IgE and IgG4 concentrations or skin test reactivity were compared in the patients, parents and controls.</ABSTRACT>

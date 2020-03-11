@@ -1,0 +1,4 @@
+<PAPERNUM>PN76159</PAPERNUM>
+<ABSTRACT>Gone are the days when it was thought that the prognosis was hopeless - at least three quarters of these children should live past the age of 19, especially now that the disease can be diagnosed at birth. The diagnosis and treatment of cystic fibrosis are explained.</ABSTRACT>
+<TITLE>Immunologic mechanisms in cystic fibrosis.</TITLE>
+<ABSTRACT>Patients with cystic fibrosis appear to have normal immunocompetence although they are unusually susceptible to infections of the lung.</ABSTRACT>

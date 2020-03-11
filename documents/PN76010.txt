@@ -1,0 +1,3 @@
+<PAPERNUM>PN76010</PAPERNUM>
+<TITLE>Distribution of complement C3 variants in individuals with cystic fibrosis.</TITLE>
+<ABSTRACT>The gene frequency for slow and fast electrophoretic variants of complement C3 in Caucasian individuals with cystic fibrosis was similar to the values expected for unaffected controls, thereby ruling out a suspected differential involvement of these phenotypes with the disease. In one family, cystic fibrosis and complement C3 phenotypes segregated independently.</ABSTRACT>

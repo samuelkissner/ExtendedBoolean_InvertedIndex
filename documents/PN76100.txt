@@ -1,0 +1,3 @@
+<PAPERNUM>PN76100</PAPERNUM>
+<TITLE>Formation of calcium phosphates in saliva and dental plaque.</TITLE>
+<ABSTRACT>This is an X-ray diffraction study of the mineral phases in saliva and early dental plaque. The salivas studied came from patients with cystic fibrosis (CF), those with asthma, and heavy and light calculus formers. One-week old plaque was studied from individuals who are heavy, moderate, and light calculus formers.</ABSTRACT>

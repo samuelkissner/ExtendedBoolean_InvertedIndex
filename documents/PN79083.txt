@@ -1,0 +1,3 @@
+<PAPERNUM>PN79083</PAPERNUM>
+<TITLE>False-positive 111In-labeled leukocyte scan in cystic fibrosis.</TITLE>
+<ABSTRACT>A false-positive 111In-labeled leukocyte scan was obtained in a girl with cystic fibrosis and infection. There was focal accumulation of 111In activity in the abdomen and marked pulmonary uptake. Surgical exploration and postmortem examination revealed no abdominal abnormality. The abnormal activity was apparently due to swallowed sputum which contained labeled leukocytes. Broader clinical implications are discussed.</ABSTRACT>

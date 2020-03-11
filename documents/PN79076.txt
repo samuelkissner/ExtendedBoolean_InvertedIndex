@@ -1,0 +1,3 @@
+<PAPERNUM>PN79076</PAPERNUM>
+<TITLE>Decreased sialic acid and altered binding to lectins of purified alpha 2-macroglobulin from patients with cystic fibrosis.</TITLE>
+<ABSTRACT>Purified preparations of plasma alpha 2-macroglobulin from patients with cystic fibrosis are shown to have normal amounts of total hexose but as much as 40% decrease in their sialic acid content. The binding of these preparations to concanavalin A and wheat-germ agglutinin was markedly reduced as compared to normal values in controls. Intermediate values were found in obligate heterozygotes. These results suggest a possible alteration in the carbohydrate moiety of alpha 2-macroglobulin in cystic fibrosis, presumably due to a defective posttranslational process.</ABSTRACT>

@@ -1,0 +1,3 @@
+<PAPERNUM>PN74139</PAPERNUM>
+<TITLE>An evaluation of differential methylation of ribonucleic acid in cystic fibrosis.</TITLE>
+<ABSTRACT>No differences were found in the methylation of total nucleic acids, total RNA, DNA, tRNA, or rRNA from lymphocytes or fibroblasts obtained from normal subjects, obligate heterozygotes, or individuals with cystic fibrosis. Similar results were obtained using four methods for isolation of the nucleic acids. The reasons for the failure of two laboratories to discern the reported variations in methylation of RNA in the normal, carrier, or cystic fibrosis state may be obscure differences in culture conditions or conditions of extraction.</ABSTRACT>

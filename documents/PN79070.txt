@@ -1,0 +1,3 @@
+<PAPERNUM>PN79070</PAPERNUM>
+<TITLE>A study of erythrocyte fatty acids, adenosinetriphosphatase and acetylcholinesterase in cystic fibrosis.</TITLE>
+<ABSTRACT>1. The proportions of both saturated and polyunsaturated fatty acids were measured in the erythrocytes in Cystic Fibrosis (CF) patients along with two membrane bound enzymes ATPase and acetylcholinesterase. Linoleic acid was found to be significantly decreased and arachidonic acid increased in CF patients. The proportion of saturated fatty acids were not significantly different from the controls. Only adenosinetriphosphatase activity was found to be reduced and not acetylcholinesterase in CF patients.</ABSTRACT>

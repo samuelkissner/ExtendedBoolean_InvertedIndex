@@ -1,0 +1,3 @@
+<PAPERNUM>PN77075</PAPERNUM>
+<TITLE>Reduced microbial transformation of bile acids in cystic fibrosis.</TITLE>
+<ABSTRACT>The microbial transformation of bile acids by incubates of stool homogenates from children with cystic fibrosis is decreased.</ABSTRACT>

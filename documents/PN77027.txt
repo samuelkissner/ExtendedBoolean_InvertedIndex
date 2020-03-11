@@ -1,0 +1,3 @@
+<PAPERNUM>PN77027</PAPERNUM>
+<TITLE>Granulocyte NADH oxidase in cystic fibrosis.</TITLE>
+<ABSTRACT>The nitro blue tetrazolium dye test was evaluated for its usefulness in detecting superimposed bacterial infection in 50 children with cystic fibrosis. No correlation of percentage of positive neutrophils to superimposed infection, clinical status or to bacterial organisms could be determined. Cystic fibrosis granulocytes generally have greater NADH oxidase activity than do controls.</ABSTRACT>

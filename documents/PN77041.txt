@@ -1,0 +1,3 @@
+<PAPERNUM>PN77041</PAPERNUM>
+<TITLE>Abnormal distribution of alpha-L-fucosidase in cystic fibrosis: increased activity in skin fibroblasts.</TITLE>
+<ABSTRACT>Alpha-L-Fucosidase activity is elevated in skin fibroblasts from cystic fibrosis patients when compared to controls. The activities of nine other acid hydrolases including neuraminidase are similar in cystic fibrosis and control fibroblasts. The relationship of these results to the recent finding of a decreased activity of alpha-L-fucosidase in the serum of cystic fibrosis patients is discussed. It is proposed that an abnormal distribution of alpha-L-fucosidase is involved in the pathogenesis of this disease.</ABSTRACT>

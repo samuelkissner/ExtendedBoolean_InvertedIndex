@@ -1,0 +1,3 @@
+<PAPERNUM>PN77118</PAPERNUM>
+<TITLE>A new method for investigating regional lung function in children with localized lung disease.</TITLE>
+<ABSTRACT>Lung function studies using 13Nitrogen have been used to determine regional and total lung function in 16 children suspected of having localized lung disease amenable to surgery. This method is simple, requires no active co-operation on the part of the child and gives a radiation dosage of about one-third of that for a bronchogram. The studies provided information about the severity and localization of the disease, and in addition, information about the remaining lung areas.</ABSTRACT>

@@ -1,0 +1,3 @@
+<PAPERNUM>PN78021</PAPERNUM>
+<TITLE>Effects of sputum from patients with cystic fibrosis on the activity in vitro of 5 antimicrobial drugs on Pseudomonas aeruginosa.</TITLE>
+<ABSTRACT>By in vitro tests on 12 strains of Pseudomonas aeruginosa, sputum from patients with cystic fibrosis sharply increased the minimal bactericidal concentrations of polymyxin B and neomycin. Sputum had a lesser effect on tests with gentamicin and tobramycin and essentially none on tests with carbenicillin.</ABSTRACT>

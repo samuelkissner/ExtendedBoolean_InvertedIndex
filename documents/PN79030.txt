@@ -1,0 +1,3 @@
+<PAPERNUM>PN79030</PAPERNUM>
+<TITLE>Antimicrobial susceptibilities of rough, smooth, and mucoid colony types of Pseudomonas isolated from cystic fibrosis patients.</TITLE>
+<ABSTRACT>Minimal inhibitory concentrations of carbenicillin, chloramphenicol, tetracycline, gentamicin, tobramycin, and trimethoprim- sulfamethoxazole were determined for rough, smooth, and mucoid Pseudomonas sp. isolates from sputa collected from 40 cystic fibrosis patients. Ninety-four percent of the minimal inhibitory concentrations obtained by using mixed inocula of colonies of different morphological types fell within one serial dilution of the most resistant minimal inhibitory concentration obtained when each colony type was tested separately.</ABSTRACT>

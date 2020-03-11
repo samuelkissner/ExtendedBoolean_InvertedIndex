@@ -1,0 +1,3 @@
+<PAPERNUM>PN77085</PAPERNUM>
+<TITLE>Utilization of electron microscopy in the prenatal diagnosis of genetic disease.</TITLE>
+<ABSTRACT>The use of electron microscopy as a further method of diagnosis of disease in cultured skin fibroblasts and cultured amniotic fluid fibroblasts is presented. It was demonstrated that Tay-Sachs disease, Fabry's disease, and metachromatic leukodystrophy had distinctive abnormalities in both cultured skin fibroblasts and cultured amniotic fluid fibroblasts. It was shown that control of culturing conditions made it possible to distinguish normal cell lines from certain cell lines carrying known genetic diseases.</ABSTRACT>

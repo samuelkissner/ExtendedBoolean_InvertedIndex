@@ -1,0 +1,3 @@
+<PAPERNUM>PN74027</PAPERNUM>
+<TITLE>Pulmonary physiotherapy in the pediatric age group.</TITLE>
+<ABSTRACT>In spite of the widespread clinical impression that pulmonary physical therapy, including breathing exercises, is helpful in the pediatric age group, objective demonstration of the value of the various maneuvers is for the most part lacking. There is evidence that the volume of sputum produced over short periods of time in patients with cystic fibrosis is increased when cough is accompanied by postural drainage and pulmonary physical therapy, but the long-term effect of the various maneuvers on the course of the chronic pulmonary disease remains unknown.</ABSTRACT>

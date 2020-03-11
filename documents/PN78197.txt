@@ -1,0 +1,3 @@
+<PAPERNUM>PN78197</PAPERNUM>
+<TITLE>Cystic fibrosis and HLA.</TITLE>
+<ABSTRACT>In 94 children suffering from cystic fibrosis, no abnormal frequencies of HLA markers of the A and B locus were observed in comparison with the distribution of these antigens in control series. Furthermore, the HLA genotypes of seven pairs of diseased sibs are incompatible with the hypothesis of a closed linkage between CF--an autosomal recessive transmitted disease--and HLA.</ABSTRACT>

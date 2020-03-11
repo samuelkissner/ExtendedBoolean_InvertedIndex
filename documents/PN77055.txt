@@ -1,0 +1,3 @@
+<PAPERNUM>PN77055</PAPERNUM>
+<TITLE>Sweat testing for cystic fibrosis: errors associated with the in-situ sweat test using chloride ion selective electrodes.</TITLE>
+<ABSTRACT>The in-situ sweat test is prone to errors from various sources. This paper examines errors due to evaporation, absorption of water into the skin, and pressure of the electrode on the skin. Only evaporation caused serious errors. The accuracy and precision when measuring small chloride/sweat samples on the skin are not significantly worse than when measuring bulk solutions.</ABSTRACT>

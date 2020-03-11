@@ -1,0 +1,3 @@
+<PAPERNUM>PN75107</PAPERNUM>
+<TITLE>Absorption of digoxin in children with cystic fibrosis.</TITLE>
+<ABSTRACT>The absorption of digoxin in cystic fibrosis was evaluated in 16 subjects by assessing the relationship between dosage expressed in mug/kg/day and serum digoxin concentration. The results indicate that the same relationship exists between maintenance dosage and serum levels in these patients and in patients without cystic fibrosis. Thus, no evidence of impaired absorption was found.</ABSTRACT>

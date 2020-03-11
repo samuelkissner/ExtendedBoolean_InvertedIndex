@@ -1,0 +1,3 @@
+<PAPERNUM>PN75032</PAPERNUM>
+<TITLE>Data on the HL-A linkage group.</TITLE>
+<ABSTRACT>Lod scores from a study in 229 families of the linkage relations of HL-A-PGM3 to 19 marker loci and cystic fibrosis are reported. The data exclude that ADA belongs to this linkage group while they give weak support for the inclusion of P. There is weak evidence for linkage of cystic fibrosis to PGM3, but none for linkage to HL-A. No new suggestive linkages appeared.</ABSTRACT>

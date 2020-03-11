@@ -1,0 +1,3 @@
+<PAPERNUM>PN78138</PAPERNUM>
+<TITLE>Effect of sera from cystic fibrosis homozygotes and heterozygotes on glucose metabolism in Vero cells.</TITLE>
+<ABSTRACT>The effect on intracellular production of carbon dioxide from glucose of sera from cystic fibrosis (C.F.) homozygotes and heterozygotes was determined in an established cell line (Vero cell) by a double-blind assay. CO2 production was reduced when cells were incubated with an ammonium-sulphate-precipitated fraction of sera from C.F. homozygotes and heterozygotes but not by a similar fraction from sera of healthy donors.</ABSTRACT>

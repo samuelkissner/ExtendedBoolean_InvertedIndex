@@ -1,0 +1,3 @@
+<PAPERNUM>PN78190</PAPERNUM>
+<TITLE>Serum lipoprotein concentrations in cystic fibrosis.</TITLE>
+<ABSTRACT>Two major classes of lipoproteins, low density and high density, are decreased in the serum of patients with cystic fibrosis; major apoproteins are also decreased. Since essential fatty acids and certain fat-soluble vitamins depend on lipoproteins for transport in the serum, knowledge of lipoprotein levels in cystic fibrosis patients could prove valuable in understanding (i) the basis for the abnormally low serum levels of these fatty acids and vitamins and (ii) the effects of therapies involving these molecules.</ABSTRACT>

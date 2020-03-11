@@ -1,0 +1,3 @@
+<PAPERNUM>PN79045</PAPERNUM>
+<TITLE>Antibody responses to influenza virus vaccine in patients with cystic fibrosis.</TITLE>
+<ABSTRACT>Patients with cystic fibrosis were immunized with subunit influenza vaccine and their haemagglutination-inhibiting (HI) antibody responses were compared with responses in young healthy adults. There was no significant difference in the antibody levels reached after immunization and no evidence of any impairment of responses in the patient group.</ABSTRACT>

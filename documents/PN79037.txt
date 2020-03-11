@@ -1,0 +1,3 @@
+<PAPERNUM>PN79037</PAPERNUM>
+<TITLE>Possible hazard of timed-release aspirin in a patient with pancreatic insufficiency.</TITLE>
+<ABSTRACT>An episode of severe small intestinal hemorrhage occurred in a cystic fibrosis patient having pancreatic insufficiency and receiving timed- release aspirin therapy for disabling hypertrophic pulmonary osteoarthropathy. The increased acidity of small intestinal contents due to decreased bicarbonate secretion observed in patients with pancreatic insufficiency may alter the luminal environment and result in mucosal erosions and/or ulcerations in association with the presence of aspirin. Thus, physicians should be aware of the possibility that timed-release aspirin causes small intestinal hemorrhage in such patients.</ABSTRACT>

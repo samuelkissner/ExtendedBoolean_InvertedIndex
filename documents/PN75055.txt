@@ -1,0 +1,3 @@
+<PAPERNUM>PN75055</PAPERNUM>
+<TITLE>Serum alpha - fetoprotein levels in patients with cystic fibrosis and their parents and siblings.</TITLE>
+<ABSTRACT>Patients with cystic fibrosis (C.F.) showed raised serum levels of alpha-fetoprotein (AFP). A moderate but significant increase in serum AFP was present in their parents and some siblings. There was no correlation between the clinical severity of the disease and serum AFP concentration. Samples from control groups with gluten-induced malabsorption and bronchiectasis had normal levels. Persistent synthesis of AFP may be an associated marker of C.F. genes, and estimation of serum AFP might help in detecting heterozygote carriers in families at risk.</ABSTRACT>

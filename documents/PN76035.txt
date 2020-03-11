@@ -1,0 +1,3 @@
+<PAPERNUM>PN76035</PAPERNUM>
+<TITLE>Prospects for prenatal diagnosis of cystic fibrosis: induction of biochemical abnormalities in fibroblasts from patients with cystic fibrosis by a urinary glycoprotein.</TITLE>
+<ABSTRACT>Alkaline phosphatase activity, assayed on a per cell basis with an ultra micro-method, can be increased up to 7-fold in fibroblast cultures derived from patients with cystic fibrosis by induction with a urinary glycoprotein. Fibroblasts from normal and heterozygous individuals are not significantly induced. There is a suggestion of heterogeneity among cases as reflected in varying baseline alkaline phosphatase and alpha-glucosidase levels.</ABSTRACT>

@@ -1,0 +1,3 @@
+<PAPERNUM>PN79077</PAPERNUM>
+<TITLE>Abnormal distribution of alpha-L-fucosidase in cystic fibrosis: decreased activity in serum.</TITLE>
+<ABSTRACT>The activity of alpha-L-fucosidase is decreased in the serum of cystic fibrosis patients when compared to age-matched controls. This result, combined with the elevated activity in skin fibroblasts, supports the concept of an abnormal intracellular and extracellular distribution of alpha-L-fucosidase in cystic fibrosis.</ABSTRACT>

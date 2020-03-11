@@ -1,0 +1,3 @@
+<PAPERNUM>PN76072</PAPERNUM>
+<TITLE>Pseudomonas: the compromised host.</TITLE>
+<ABSTRACT>Although the incidence of pseudomonas infection is low in the total hospital population, certain conditions predispose to such infection, which can be life-threatening. Patients with cystic fibrosis are a special group, since a majority have chronic pulmonary infections with pseudomonas, often of a mucoid variant rarely found in other patients. Several approaches are being tried in CF patients, but none shows much promise thus far.</ABSTRACT>

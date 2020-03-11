@@ -1,0 +1,3 @@
+<PAPERNUM>PN79161</PAPERNUM>
+<TITLE>Detection of cystic fibrosis homozygotes and heterozygotes with plasma.</TITLE>
+<ABSTRACT>Evidence is accumulating which indicates that the basic defect in cystic fibrosis interferes with the formation of recognition markers on hydrolytic enzymes. As a result these hydrolases leak into the extracellular space and some of them display abnormal thermolabilities. By heat inactivation of plasma alpha-mannosidase at 41 degrees C and plasma phosphatase at 36.5 degrees C, both enzymes being assayed at pH 5.4, it is possible to differentiate normal people from cystic fibrosis carriers and patients.</ABSTRACT>

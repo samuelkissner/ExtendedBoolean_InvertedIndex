@@ -1,0 +1,3 @@
+<PAPERNUM>PN74159</PAPERNUM>
+<TITLE>Analysis of albumin in meconium for early detection of cystic fibrosis. A methodological study.</TITLE>
+<ABSTRACT>Albumin in meconium was quantitated by means of a single radial immunodiffusion technique, which is described in detail. The method shows good precision and accuracy for this material, when certain conditions associated with collection, preparation, and analysis are observed. The method can discriminate between healthy newborns and newborns with cystic fibrosis.</ABSTRACT>

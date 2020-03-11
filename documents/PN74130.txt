@@ -1,0 +1,3 @@
+<PAPERNUM>PN74130</PAPERNUM>
+<TITLE>Bile acid malabsorption in cystic fibrosis.</TITLE>
+<ABSTRACT>Malabsorption of bile acids occurs in cystic fibrosis but not in celiac disease and is correlated with fecal excretion. Bile acid malabsorption may occur secondary to exocrine pancreatic deficiency.</ABSTRACT>

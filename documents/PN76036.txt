@@ -1,0 +1,3 @@
+<PAPERNUM>PN76036</PAPERNUM>
+<TITLE>Decreased formation of alpha 2-macroglobulin-protease complexes in plasma of patients with cystic fibrosis.</TITLE>
+<ABSTRACT>Alpha2-macroglobulin from patients with cystic fibrosis is shown to have reduced binding with papain, trypsin, and thrombin. The obligate heterozygotes for cystic fibrosis revealed intermediate values between the controls and the patients. Since papain and trypsin are not plasma endopeptidases, it becomes evident that the absence of alpha2-macroglobulin-protease complex in cystic fibrosis is due to a molecular defect within the macroglobulin.</ABSTRACT>

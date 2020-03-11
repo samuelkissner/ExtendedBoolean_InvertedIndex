@@ -1,0 +1,3 @@
+<PAPERNUM>PN75152</PAPERNUM>
+<TITLE>Cystic fibrosis detection by means of a test-strip.</TITLE>
+<ABSTRACT>The effectiveness of meconium screening for albumin as an indication of cystic fibrosis is examined. BM-Test Meconium was applied to 69,000 investigations. In 60 positive tests, cystic fibrosis was confirmed later. No increased albumin content was observed in four cases of cystic fibrosis.</ABSTRACT>

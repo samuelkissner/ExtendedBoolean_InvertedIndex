@@ -1,0 +1,3 @@
+<PAPERNUM>PN76207</PAPERNUM>
+<TITLE>Detection of cystic fibrosis heterozygotes using the zeta potential reduction method.</TITLE>
+<ABSTRACT>Parotid saliva samples from cystic fibrosis homozygotes, heterozygotes and normal individuals were tested by the zeta potential technique for secretion factor in a double-blind experiment. There was no overlap between zeta potential reduction of the control group and the cystic fibrosis test groups, indicating that the zeta potential test may be detecting a unique component in saliva of cystic fibrosis genotypes.</ABSTRACT>

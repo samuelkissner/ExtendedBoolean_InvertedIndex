@@ -1,0 +1,3 @@
+<PAPERNUM>PN76027</PAPERNUM>
+<TITLE>Association of cystic fibrosis with allergy.</TITLE>
+<ABSTRACT>Immediate skin hypersensitivity to various inhalant allergens was present in 59% of 123 children with cystic fibrosis (CF), a much higher percentage than in the general population. This is consistent with the idea that atopy arises as a result of impaired handling of antigen at mucosal surfaces. The allergic CF children had more chest infections, a worse chest x-ray appearance, and lower peak expiratory flow rates. Allergic diseases were also frequent in the CF obligate heterozygotes (32% of mothers and 26% of fathers). It is suggested that the heterozygotes may also have a mucosal abnormality resulting in defective antigen handling.</ABSTRACT>

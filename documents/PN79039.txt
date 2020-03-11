@@ -1,0 +1,3 @@
+<PAPERNUM>PN79039</PAPERNUM>
+<TITLE>Cystic fibrosis and hearing loss.</TITLE>
+<ABSTRACT>The mucosal epithelium of the middle ear and Eustachian tube is in direct continuity with the upper respiratory tract. Since the otolaryngological aspects of cystic fibrosis (CF) are dominated by involvement of the paranasal sinuses, it might be assumed that children with CF would be expected to have a higher than usual incidence of middle ear disease. Eighty patients who were afflicted with CF had audiological evaluations, which consisted of hearing threshold levels (250 to 8,000 Hz) and speech and impedance audiometry. We found no greater incidence of a conductive or sensorineural hearing loss in patients with CF when compared with a normal age-adjusted population.</ABSTRACT>

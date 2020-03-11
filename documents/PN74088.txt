@@ -1,0 +1,3 @@
+<PAPERNUM>PN74088</PAPERNUM>
+<TITLE>Radionuclide evaluation of regional lung function in children.</TITLE>
+<ABSTRACT>A method suitable for the study of regional lung function in children is described. The method is simple to perform, takes only 2 min, and provides pictorial and numerical information on regional ventilation and perfusion and a scaling factor measured after rebreathing to account for regional variation in lung size and shielding. Although the availability of a computer system such as the one described in the text is essential for precise and rapid numerical evaluation, nuclear medicine laboratories that lack this facility but have a gamma camera could use this method to obtain scintigraphic information alone.</ABSTRACT>

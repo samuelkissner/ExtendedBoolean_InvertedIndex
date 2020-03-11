@@ -1,0 +1,3 @@
+<PAPERNUM>PN75171</PAPERNUM>
+<TITLE>Insulin iontophoresis in cystic fibrosis.</TITLE>
+<ABSTRACT>Insulin and its vehicle without insulin were administered separately by iontophoresis to patients with cystic fibrosis (CF), obligate heterozygotes, and healthy controls. The resultant sweat chloride concentration after treatment with both preparations was compared in each individual. No difference after the two treatments was found in the control sample. A decrease in sweat chloride concentration after insulin iontophoresis in comparison with the vehicle was observed in both the CF (P smaller than 0.005) and heterozygote (P smaller than 0.01) samples. These observations suggest an involvement of insulin in CF and a possible role of insulin in sweat gland function.</ABSTRACT>

@@ -1,0 +1,3 @@
+<PAPERNUM>PN76057</PAPERNUM>
+<TITLE>'Fast isoamylases' in parotid saliva of heterozygous carriers of cystic fibrosis.</TITLE>
+<ABSTRACT>An increased number of 'fast isoamylases' is found in the parotid saliva of children with cystic fibrosis and their heterozygous parents who are clinically healthy. 'Fast isoamylases' are generated, at least in part, from the 6 isoamylases of the basic pattern by deamidation of asparagine and glutamine residues. This basic pattern is present in the parotid saliva of all subjects we have tested so far. A shift in the equilibrium between amidation and deamidation processes is discussed in terms of its possible significance for the pathogenesis of cystic fibrosis and for ageing.</ABSTRACT>

@@ -1,0 +1,3 @@
+<PAPERNUM>PN77054</PAPERNUM>
+<TITLE>Cystic fibrosis: the effect of medium from cultured cystic fibrosis fibroblasts on ATPase activity.</TITLE>
+<ABSTRACT>Culture medium from fibroblasts of cystic fibrosis patients and controls was examined for the ability to inhibit (calcium plus magnesium)-activated ATPase and (sodium plus potassium)-activated ATPase. The ATPase systems used were both a solubilised preparation from dog-fish and a membrane associated preparation from human erythrocyes. Contrary to other reports the medium from cystic fibrosis fibroblasts did not inhibit ATPase activity.</ABSTRACT>

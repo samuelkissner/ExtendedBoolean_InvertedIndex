@@ -1,0 +1,3 @@
+<PAPERNUM>PN76170</PAPERNUM>
+<TITLE>Elevated plasma levels of carcinoembryonic antigen in cystic fibrosis.</TITLE>
+<ABSTRACT>Elevated levels of plasma CEA were found in patients with cystic fibrosis. The elevations were well correlated with the Shwachman scores of the patients. Parallel changes of the levels of plasma CEA and clinical conditions of four patients were also observed in the follow-up studies. Close clinical examination indicated that the elevated plasma CEA of cystic fibrosis patients may be derived from sputum which is produced in abnormal amounts. This hypothesis is further supported by the very high content and the chromatographic profile of the CEA activity of sputum from patients with cystic fibrosis.</ABSTRACT>

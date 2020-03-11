@@ -1,0 +1,3 @@
+<PAPERNUM>PN77142</PAPERNUM>
+<TITLE>Pathophysiology of diseases involving intestinal brush-border proteins.</TITLE>
+<ABSTRACT>The intestinal brush border is a complex organelle that contains hydrolytic enzymes, receptors, other proteins involved in transport and contractile proteins. In this article, we review the molecular organization of brush-border proteins within the whole membrane, and discuss their synthesis and turnover. This knowledge provides a framework for understanding the mechanisms by which certain diseases are associated with changes in brush-border proteins.</ABSTRACT>

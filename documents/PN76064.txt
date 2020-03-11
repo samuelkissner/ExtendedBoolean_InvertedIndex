@@ -1,0 +1,3 @@
+<PAPERNUM>PN76064</PAPERNUM>
+<TITLE>ALPHA-Amylase activity in sweat and serum of patients with cystic fibrosis of the pancreas.</TITLE>
+<ABSTRACT>The hypothesis by Doggett and Harrison, according to which alpha- amylase is the pathogenic factor of the exocrinopathy in cystic fibrosis (C.F.), is investigated.No elevation of alpha-amylase in sweat and serum of C.F. patients, as compared with controls of similar age, is observed. It is concluded that the "C.F. factor" cannot be identified with alpha-amylase.</ABSTRACT>

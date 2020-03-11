@@ -1,0 +1,3 @@
+<PAPERNUM>PN74020</PAPERNUM>
+<TITLE>The relative sensitivity of closing volume in children with asthma and cystic fibrosis.</TITLE>
+<ABSTRACT>The ability to detect abnormalities of lung function in children with asthma and cystic fibrosis by the measurement of closing volume was studied in 205 children. Flow volume characteristics, routine spirometry, body plethysmography, and arterialized oxygen tensions were studied for comparison with closing volume. Closing volume was less sensitive in detecting disease than were the residual volume to total lung capacity ratio, maximum expiratory flow volume curves, and arterialized blood gases.</ABSTRACT>

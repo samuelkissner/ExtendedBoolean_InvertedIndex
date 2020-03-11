@@ -1,0 +1,3 @@
+<PAPERNUM>PN78080</PAPERNUM>
+<TITLE>Intestinal mucins in health and disease.</TITLE>
+<ABSTRACT>Intestinal mucins are complex glycoproteins which are secreted from goblet cells, and form a gel-like covering over the mucosal surface. They are assumed to provide lubrication and protection of the underlying epithelium against potentially injurious chemicals, enzymes, bacteria and dietary constituents. Recent advances in our understanding of mucin structure, secretion and functional properties are reviewed in this paper. Implications for diseases such as cystic fibrosis, peptic ulcer, malignancy and inflammatory bowel disease are briefly discussed.</ABSTRACT>

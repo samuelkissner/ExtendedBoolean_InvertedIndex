@@ -1,0 +1,3 @@
+<PAPERNUM>PN74053</PAPERNUM>
+<TITLE>Properties of microsomal glycoprotein galactosyltransferase of cultured human fibroblasts in relation to cystic fibrosis.</TITLE>
+<ABSTRACT>The levels and properties of microsomal glycoprotein galactosyltransferase of cultured skin fibroblasts from control and cystic fibrosis patients were investigated using bovine submaxillary gland mucin as the exogenous acceptor. Although the mean specific activity of this enzyme was higher tin cystic fibrosis fibroblasts, the difference was not significant. The properties of the enzyme as regards pH optimum, metal ion and Triton X-100 requirement, apparent Km, heat stability and nucleotide/sugar-nucleotide response were similar for control and cystic fibrosis fibroblasts.</ABSTRACT>

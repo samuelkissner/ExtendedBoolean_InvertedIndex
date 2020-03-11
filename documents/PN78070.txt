@@ -1,0 +1,3 @@
+<PAPERNUM>PN78070</PAPERNUM>
+<TITLE>Serum alphafetoprotein in cystic fibrosis of the pancreas.</TITLE>
+<ABSTRACT>Serum alphafetoprotein concentrations were measured by three different types of radioimmunoassay in 30 patients with cystic fibrosis of the pancreas and in 55 controls. The highest value obtained in cystic patient was 10.2 ng/ml and in a control 10.8 ng/ml. These are within published normal limits. Previously reported large increases in serum AFP in patients with cystic fibrosis and in heterozygote carriers have not been confirmed.</ABSTRACT>

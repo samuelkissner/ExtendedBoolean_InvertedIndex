@@ -1,0 +1,3 @@
+<PAPERNUM>PN75004</PAPERNUM>
+<TITLE>Glycosidases in human skin fibroblast cultures. Alpha-fucosidase, alpha-galactosidase, alpha-glucosidase, beta-mannosidase, and N-acetyl-alpha-glucosaminidase.</TITLE>
+<ABSTRACT>Five glycosidases, alpha-fucosidase, alpha-galactosidase, alpha- glucosidase, beta-mannosidase and N-acetyl-alpha-glucosaminidase were studied in human skin fibroblast cultures. The pH-dependency, kinetic properties of the enzymes and results of isoelectric focusing and ion exchange chromatography are presented. Techniques suitable for diagnosing inborn lysosomal diseases in skin fibroblast cultures are defined.</ABSTRACT>

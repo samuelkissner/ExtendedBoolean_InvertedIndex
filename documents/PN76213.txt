@@ -1,0 +1,3 @@
+<PAPERNUM>PN76213</PAPERNUM>
+<TITLE>Expression of the cystic fibrosis genotype in cultured somatic cells.</TITLE>
+<ABSTRACT>Observations on the characteristics of the cell with the cystic fibrosis (CF) genotype in culture are reviewed. Although numerous and diverse abnormalities have been described, none were specific for the CF gene. The relevance of each of these abnormalities to the clinical syndrome known as CF is discussed, emphasizing that the value thus far of such cell culture research has been to learn how the CF gene influences cellular function.</ABSTRACT>

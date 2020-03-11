@@ -1,0 +1,3 @@
+<PAPERNUM>PN76110</PAPERNUM>
+<TITLE>A search for linkage in cystic fibrosis.</TITLE>
+<ABSTRACT>Linkage between the locus for cystic fibrosis and other genetic markers was explored in 40 families from Birmingham and 20 from Manchester. No strong evidence was found for linkage with any of the markers examined. There was evidence against close linkage with ABO, HLA, and Rh.</ABSTRACT>

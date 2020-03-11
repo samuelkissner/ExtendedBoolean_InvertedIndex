@@ -1,0 +1,3 @@
+<PAPERNUM>PN75150</PAPERNUM>
+<TITLE>Studies on cor pulmonale in cystic fibrosis: I. Effects of diuresis.</TITLE>
+<ABSTRACT>The effects of acute diuresis in patients with cor pulmonale secondary to cystic fibrosis were studied. Both hemodynamic parameters and arterial blood gas changes were investigated. The major effect noted was a significant reduction of systemic venous pressure. Pulmonary artery and pulmonary artery wedge pressure either remained constant or declined slightly. No consistent changes were noted in cardiac output or arterial blood gases. Acute diuresis of moderate degree appears to be a safe and effective manner in which to treat the systemic venous congestion of cor pulmonale in this situation.</ABSTRACT>

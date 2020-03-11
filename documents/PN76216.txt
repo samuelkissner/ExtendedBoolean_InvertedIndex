@@ -1,0 +1,3 @@
+<PAPERNUM>PN76216</PAPERNUM>
+<TITLE>Somatic cell genetic studies of cystic fibrosis.</TITLE>
+<ABSTRACT>The expression of the gene coding for the cystic fibrosis ciliary inhibitor has been examined in somatic cell hybrid clonal lines. Hybrids were produced by the fusion of cultured skin fibroblasts from cystic fibrosis patients with mouse RAG and LM (TK-) cell lines. The ciliary inhibitor was detected by the oyster ciliary assay in several primary hybrid clones but not detected in others, indicating the segregation of an associated nuclear gene.</ABSTRACT>

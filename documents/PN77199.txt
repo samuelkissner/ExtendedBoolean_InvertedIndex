@@ -1,0 +1,3 @@
+<PAPERNUM>PN77199</PAPERNUM>
+<TITLE>HLA frequencies in patients with cystic fibrosis.</TITLE>
+<ABSTRACT>Thirty-three patients with Cystic Fibrosis were HLA typed. Relative risk values and phenotype frequencies were calculated. No statistically significant differences in the HLA antigen distribution were found among the patients with Cystic Fibrosis.</ABSTRACT>

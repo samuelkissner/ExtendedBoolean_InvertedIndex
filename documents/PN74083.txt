@@ -1,0 +1,3 @@
+<PAPERNUM>PN74083</PAPERNUM>
+<TITLE>Preliminary investigations of Pseudomonas aeruginosa vaccine in patients with leukemia and cystic fibrosis.</TITLE>
+<ABSTRACT>A heptavalent lipopolysaccharide vaccine against Pseudomonas has been developed. Clinical trials revealed a decreased incidence of sepsis and mortality due to Pseudomonas in vaccinated patients with burns. If vaccinated, certain groups of immunosuppressed patients with cancer may also have a decreased incidence of death associated with Pseudomonas. Trials of parenteral vaccination in patients with cystic fibrosis show little benefit. Adverse reactions to this vaccine are frequent and often limit the dose given.</ABSTRACT>

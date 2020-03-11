@@ -1,0 +1,3 @@
+<PAPERNUM>PN79250</PAPERNUM>
+<TITLE>Killing of fibroblasts by dexamethasone or dibutyryl adenosine 3',5'-monophosphate is not a valid test for cystic fibrosis.</TITLE>
+<ABSTRACT>Assays based on the counting of total cells and of colony-forming cells were used to demonstrate that neither dexamethasone nor dibutyryl adenosine 3',5'-monophosphate (cyclic AMP) kills human fibroblasts under a variety of conditions. These results contradict those of previous studies showing that dexamethasone and dibutyryl cyclic AMP kill a higher percentage of fibroblasts from normal humans than from individuals with cystic fibrosis.</ABSTRACT>

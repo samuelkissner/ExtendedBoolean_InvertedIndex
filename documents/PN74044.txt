@@ -1,0 +1,3 @@
+<PAPERNUM>PN74044</PAPERNUM>
+<TITLE>Cystic fibrosis: effect of media from cultured cystic fibrosis fibroblasts on ATPase activity.</TITLE>
+<ABSTRACT>Membrane associated ATPase activities of human red blood cells were examined following the addition of spent fibroblast culture media from normal and cystic fibrosis cell lines. In comparison to normal and unspent media, the cystic fibrosis media consistently depressed the ATPase activities.</ABSTRACT>

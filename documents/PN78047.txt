@@ -1,0 +1,3 @@
+<PAPERNUM>PN78047</PAPERNUM>
+<TITLE>Anti-plasmin (alpha2-macroglobulin) activity of plasma from cystic fibrosis patients.</TITLE>
+<ABSTRACT>We have studied the plasim-alpha2-macroglobulin interaction using plasma from cystic fibrosis patients. In this system alpha2-macroglobulin from cystic fibrosis plasma does not differ from controls in its ability to bind with and inhibit plasmin.</ABSTRACT>

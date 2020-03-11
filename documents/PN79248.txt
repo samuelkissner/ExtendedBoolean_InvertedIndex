@@ -1,0 +1,3 @@
+<PAPERNUM>PN79248</PAPERNUM>
+<TITLE>Proteins in bronchial secretion of children with chronic pulmonary diseases. I. Relation to clinical diagnosis.</TITLE>
+<ABSTRACT>Bronchial secretions from 207 children suffering from various pulmonary diseases and from 15 healthy controls were tested concentration of IgA, IgG, lactoferrin and lysozyme. The results obtained suggest that in many cases of chronic lung diseases in children the levels of lactoferrin and immunoglobulins, especially secretory IgA, are very low. In severe infections (cystic fibrosis, bronchiectases) significant increase of IgG concentration was observed.</ABSTRACT>

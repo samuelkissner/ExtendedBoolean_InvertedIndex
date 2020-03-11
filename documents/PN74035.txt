@@ -1,0 +1,3 @@
+<PAPERNUM>PN74035</PAPERNUM>
+<TITLE>Immunochemical method for detection of albumin in human meconium.</TITLE>
+<ABSTRACT>A simple immunochemical technique utilizing single radial immunodiffusion for the demonstration of albumin in human meconium is described. A comparison of this technique with the more widely used sulphosalicylic acid precipitation method is reported. We also have attempted to determine the normal levels of albumin in meconium.</ABSTRACT>

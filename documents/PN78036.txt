@@ -1,0 +1,3 @@
+<PAPERNUM>PN78036</PAPERNUM>
+<TITLE>Sweat testing for cystic fibrosis. Diagnostic screening with a combination chloride ion-selective electrode.</TITLE>
+<ABSTRACT>Screening of sweat chloride in newborn infants with the Orion Skin Chloride Measuring System and incorporating some procedural innovations is described. The results indicate that while diagnostic screening for cystic fibrosis can be readily undertaken, the test with the chloride ion-selective electrode is best left at least to the second day of life or later because of insufficient sweating in very young babies. Measurements on 2 babies with cystic fibrosis are also discussed.</ABSTRACT>
